@@ -1,4 +1,4 @@
-# Masari | Blue Team Learning Tracker
+# sajad | Blue Team Learning Tracker
 
 This repository documents my journey and growth in the Blue Team field. It includes all topics I've studied or explained through content creation on YouTube, TikTok, and LinkedIn.
 
