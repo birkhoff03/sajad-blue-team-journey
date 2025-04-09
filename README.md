@@ -6,7 +6,7 @@ This repository documents my journey and growth in the Blue Team field. It inclu
 
 | #  | Topic                                | Learned | YouTube Video | Notes |
 |----|--------------------------------------|---------|----------------|-------|
-| 1  | Networking Basics                    | ✅       | [Watch](#)      | OSI Model, IP, Ports |
+| 1  | Networking Basics                    | ✅       | [https://youtu.be/jw9rju4h4lE?si=fO-73cuYe3IaAUwz](#)      | OSI Model, IP, Ports |
 | 2  | Suricata IDS                         | ✅       | [Watch](#)      | HTTP rules, alert testing |
 | 3  | OSSEC HIDS                           | ✅       | [Watch](#)      | Rule writing, alerts |
 | 4  | Zeek (Network Monitoring)            | ✅       | [Watch](#)      | dns.log, conn.log, weird.log |
