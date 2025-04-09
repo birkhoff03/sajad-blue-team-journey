@@ -7,7 +7,7 @@ This repository documents my journey and growth in the Blue Team field. It inclu
 
 | #  | Topic                             | Learned | YouTube Video | Notes |
 |----|-----------------------------------|---------|---------------|-------|
-| 1  | Cyber Motivation                  | ✅      | [https://youtube.com/](#) | Passion, career tips |
+| 1  | Cyber Motivation                  | ✅      | [https://youtube.com/] | Passion, career tips |
 | 2  | Networking & Cybersecurity        | ✅      | [https://youtu.be/3kAW_T7Nl-E?si=wXusLQU9ofmKfgvN](#) | Fundamentals |
 | 3  | OSI Layers Deep Dive              | ✅      | [https://youtu.be/jw9rju4h4lE?si=-lDndItgklVDupZ6](#) | 7 Layers explained |
 | 4  | ARP & MAC                         | ✅      | [https://youtu.be/mFvphmKpP9o?si=OSOKYz-IpGpNeCi3](#) | Network IDs |
