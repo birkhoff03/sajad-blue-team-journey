@@ -16,7 +16,7 @@ This repository documents my journey and growth in the Blue Team field. It inclu
 | 8  | Sysmon                                | ✅       | [Watch](#)      | Event ID 1, 3, 10 |
 | 9  | Email Security (SPF, DKIM, DMARC)    | ✅       | [Watch](#)      | DNS records, spoofing defense |
 | 10 | Autopsy (Forensics)                  | ✅       | Coming soon     | Timeline, deleted files |
-| 11 | DNS Tunneling with Zeek + RITA       | ✅       | [Watch](#)      | Full detection lab |
+| 11 | DNS Tunneling with Zeek + RITA       | ✅       | [https://youtu.be/CEQAF_UCuZI?si=22rziqxLpwqxjVHA](#)      | Full detection lab |
 | 12 | tcpdump                              | 🟡       | Not yet         | Network packet capture |
 | 13 | Real-world Threat Analysis (Scenario)| 🟡       | [Watch](#)      | Blue Team response |
 | 14 | Linux Security Commands              | ✅       | [Watch](#)      | iptables, netstat, auditd |
